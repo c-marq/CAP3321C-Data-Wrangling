@@ -1,7 +1,6 @@
 # CAP3321C: Data Wrangling with Python
 
 **Miami Dade College | School of Engineering and Technology**  
-**Spring 2025 | 8-Week Mini-Term**
 
 ---
 
