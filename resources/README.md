@@ -11,14 +11,14 @@ Chapter slides from the textbook (PDF format).
 
 | Chapter | Topic | File |
 |---------|-------|------|
-| Chapter 1 | Introduction to Python for Data Analysis | [Chapter 1.pdf](Chapter 1.pdf) |
-| Chapter 2 | Pandas Essentials for Data Analysis | [ch02-slides.pdf](slides/ch02-slides.pdf) |
-| Chapter 3 | Pandas Essentials for Data Visualization | Coming Soon |
-| Chapter 4 | Seaborn Essentials for Data Visualization | Coming Soon |
-| Chapter 5 | How to Get the Data | Coming Soon |
-| Chapter 6 | How to Clean the Data | Coming Soon |
-| Chapter 7 | How to Prepare the Data | Coming Soon |
-| Chapter 8 | How to Analyze the Data | Coming Soon |
+| Chapter 1 | Introduction to Python for Data Analysis | [Chapter-1.pdf](slides/Chapter-1.pdf) |
+| Chapter 2 | Pandas Essentials for Data Analysis | [Chapter-2.pdf](slides/Chapter-2.pdf) |
+| Chapter 3 | Pandas Essentials for Data Visualization | [Chapter-3.pdf](slides/Chapter-3.pdf) |
+| Chapter 4 | Seaborn Essentials for Data Visualization | [Chapter-4.pdf](slides/Chapter-4.pdf) |
+| Chapter 5 | How to Get the Data | [Chapter-5.pdf](slides/Chapter-5.pdf) |
+| Chapter 6 | How to Clean the Data | [Chapter-6.pdf](slides/Chapter-6.pdf) |
+| Chapter 7 | How to Prepare the Data | [Chapter-7.pdf](slides/Chapter-7.pdf) |
+| Chapter 8 | How to Analyze the Data | [Chapter-8.pdf](slides/Chapter-8.pdf) |
 
 ---
 
