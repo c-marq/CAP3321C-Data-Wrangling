@@ -11,7 +11,7 @@
 - Add comments to explain your thinking and complex code.
 - Use Markdown cells for headings and organization.
 
-## Dataset Summary (Used in Labs 2–8)
+## Dataset Summary
 
 - **Ramen** (`ramen-ratings.csv`)  
   Ratings of ramen by brand, variety, style, and country.
@@ -62,3 +62,4 @@
 **Questions**
 1. Relationship between reading and writing scores?
 2. Does lunch type affect average test scores?
+
