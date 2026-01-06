@@ -10,7 +10,7 @@ Welcome to CAP3321C Data Wrangling! This guide will help you set up everything y
 - A modern web browser (Chrome recommended)
 - Access to Canvas (for submissions and grades)
 
-That's it. No software installation required.
+That's it — no software installation required.
 
 ---
 
@@ -29,7 +29,7 @@ When you click on a `.ipynb` file in this repository, you'll see an "Open in Col
 **Alternative method:**
 1. In Colab, click **File → Open notebook**
 2. Select the **GitHub** tab
-3. Enter this repository URL: `[YOUR-REPO-URL-HERE]`
+3. Enter this repository URL: https://github.com/c-marq/CAP3321C-Data-Wrangling
 4. Select the notebook you want to open
 
 ### Step 3: Save Your Work
