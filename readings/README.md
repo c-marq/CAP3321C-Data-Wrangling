@@ -10,7 +10,7 @@ Complete these readings **before class** each week. Each reading is aligned to t
 |---------|-------|--------|
 | [Chapter 1](chapter-01-intro-to-python.md) | Introduction to Python for Data Analysis | Reference |
 | [Chapter 2](chapter-02-pandas-essentials.md) | Pandas Essentials for Data Analysis | Active |
-| [Chapter 3](chapter-03-pandas-visualization.md) | Pandas Essentials for Data Visualization | Coming Soon |
+| [Chapter 3](chapter-03-pandas-visualization.md) | Pandas Essentials for Data Visualization | Active |
 | [Chapter 4](chapter-04-seaborn-visualization.md) | Seaborn Essentials for Data Visualization | Coming Soon |
 | [Chapter 5](chapter-05-getting-data.md) | How to Get the Data | Coming Soon |
 | [Chapter 6](chapter-06-cleaning-data.md) | How to Clean the Data | Coming Soon |
