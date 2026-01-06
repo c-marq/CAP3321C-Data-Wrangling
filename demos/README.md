@@ -10,8 +10,8 @@ These notebooks accompany the **in-class demonstrations**. During class, follow 
 |---------|-------|----------|
 | Chapter 1 | Introduction to Python for Data Analysis | [ch01-demo.ipynb](ch01-demo.ipynb) |
 | Chapter 2 | Pandas Essentials for Data Analysis | [ch02-demo.ipynb](ch02-demo.ipynb) |
-| Chapter 3 | Pandas Essentials for Data Visualization | Coming Soon |
-| Chapter 4 | Seaborn Essentials for Data Visualization | Coming Soon |
+| Chapter 3 | Pandas Essentials for Data Visualization |  [ch03-demo.ipynb](ch03-demo.ipynb) |
+| Chapter 4 | Seaborn Essentials for Data Visualization |  [ch04-demo.ipynb](ch04-demo.ipynb) |
 | Chapter 5 | How to Get the Data | Coming Soon |
 | Chapter 6 | How to Clean the Data | Coming Soon |
 | Chapter 7 | How to Prepare the Data | Coming Soon |
