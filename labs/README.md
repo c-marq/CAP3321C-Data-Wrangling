@@ -10,7 +10,7 @@ Labs are **homework assignments** completed on your own. They reinforce the skil
 |---------|-------|------------------|
 | Chapter 1 | Introduction to Python for Data Analysis | [ch01-lab-starter.ipynb](chapter-01/ch01-lab-starter.ipynb) |
 | Chapter 2 | Pandas Essentials for Data Analysis | [ch02-labs.md](ch02-labs.md) |
-| Chapter 3 | Pandas Essentials for Data Visualization | Coming Soon |
+| Chapter 3 | Pandas Essentials for Data Visualization | [ch03-labs.md](ch03-labs.md) |
 | Chapter 4 | Seaborn Essentials for Data Visualization | Coming Soon |
 | Chapter 5 | How to Get the Data | Coming Soon |
 | Chapter 6 | How to Clean the Data | Coming Soon |
