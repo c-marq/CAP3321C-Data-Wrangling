@@ -6,16 +6,16 @@ Labs are **homework assignments** completed on your own. They reinforce the skil
 
 ## Chapters
 
-| Chapter | Topic | Starter Notebook |
+| Chapter | Topic | Lab File |
 |---------|-------|------------------|
 | Chapter 1 | Introduction to Python for Data Analysis | [ch01-lab-starter.ipynb](chapter-01/ch01-lab-starter.ipynb) |
 | Chapter 2 | Pandas Essentials for Data Analysis | [ch02-labs.md](ch02-labs.md) |
 | Chapter 3 | Pandas Essentials for Data Visualization | [ch03-labs.md](ch03-labs.md) |
-| Chapter 4 | Seaborn Essentials for Data Visualization | Coming Soon |
-| Chapter 5 | How to Get the Data | Coming Soon |
-| Chapter 6 | How to Clean the Data | Coming Soon |
-| Chapter 7 | How to Prepare the Data | Coming Soon |
-| Chapter 8 | How to Analyze the Data | Coming Soon |
+| Chapter 4 | Seaborn Essentials for Data Visualization | [ch04-labs.md](ch04-labs.md) |
+| Chapter 5 | How to Get the Data | [ch05-labs.md](ch05-labs.md) |
+| Chapter 6 | How to Clean the Data | [ch06-labs.md](ch06-labs.md) |
+| Chapter 7 | How to Prepare the Data | [ch07-labs.md](ch07-labs.md) |
+| Chapter 8 | How to Analyze the Data | [ch08-labs.md](ch08-labs.md) |
 
 ---
 
