@@ -1,0 +1,93 @@
+## General guidelines
+
+### Data files supplied by your instructor
+- Each Lab gets its data from a file such as a CSV file. These files are identified in the specifications for each Lab, and your instructor should make these starting files available to you.
+
+### Notebooks created by you
+- For each Lab, create one Google Colab Notebook.
+- When creating the filenames for your Notebooks, please use the convention specified by your instructor. Otherwise, name the Notebook `first_last_lab_X-X` where `first_last` specifies your first and last names and `X-X` specifies the Lab number.
+- Start each Notebook by importing any modules, classes, or functions required by the Lab.
+- Use one Code cell to store the code that accomplishes each task and question.
+- Use comments to describe your thought process and to document any code that’s hard to understand.
+- Use Markdown cells to create headings that organize your Notebooks.
+
+## Dataset summary
+
+Here’s a brief summary of each dataset used by the labs.
+
+- **Exams**  
+  This dataset contains math, reading and writing scores based on students’ gender, race, level of parent education, whether they receive a free or reduced-cost lunch, and whether they completed a test preparation course.
+
+- **Ramen**  
+  This dataset rates various types of ramen based on the brand, variety, style, and country that sells it.
+
+- **Avocados**  
+  This dataset contains historical data on avocado prices and sales volume in multiple U.S. markets. One of the columns in this dataset, `Unnamed: 0`, contains sequential numbers that are irrelevant to analyzing this data. Three of the other columns contain sales for PLU (price look-up) codes 4046, 4225, and 4770. These columns will also not be used by the analyses done in these labs.  
+  If you review the data, you’ll see that some of the regions overlap. For example, one of the regions is the entire U.S., and all of the other regions are parts of the U.S. Because of that, you would need to review this data carefully before determining the best way to analyze it. For the purposes of these exercises, though, the overlapping regions won’t be taken into consideration.
+
+## Lab 2-1: Analyze the ramen data
+
+**The data file**  
+`ramen-ratings.csv`
+
+**Tasks**
+1. Read the data from the CSV file into a DataFrame.
+2. Display the first five rows of data.
+3. Display the last five rows of data.
+4. Display statistical information for the numeric columns using the `describe()` method.
+5. Display the number of unique values for each column.
+6. Display only rows where the country is Vietnam.
+7. Display only the Brand and Style columns.
+8. Display only the Country column.
+9. Display the data after it has been sorted by the Stars column from high values to low values.
+10. In the Country column, replace “USA” with “United States”. Make sure this change is saved in the DataFrame, and then display the first five rows to be sure the change was made correctly.
+
+**Questions**
+1. How many countries are represented in the data?
+2. Which three countries have the highest average rating?
+3. Which three countries have the lowest average rating?
+4. Which three countries have the most brands, and how many brands does each of these countries have?
+
+## Lab 2-2: Analyze the avocado data
+
+**The data file**  
+`avocado.csv`
+
+**Tasks**
+1. Read the data from the CSV file into a DataFrame.
+2. Display type, memory consumption, and null count information using the `info()` method.
+3. Display the number of unique values in each column.
+4. Display all the rows of data that Google Colab displays by default.
+5. Display the first and last five rows of data and the first and last four columns of data.
+6. Choose any three columns, access them with bracket notation, and display the first five rows of this data.
+7. Select one column and access it with dot notation.
+8. Multiply the Total Volume and AveragePrice columns, and store the result in a new column called EstimatedRevenue. Then, display the first five rows of this data to confirm that the column was added and has the correct values.
+9. Create a DataFrame that’s grouped by region and type and that includes the average price for the grouped columns. Then, reset the index and display the first five rows.
+10. Create a bar plot that shows the mean, median, and standard deviation of the Total Volume column by year.
+
+**Questions**
+1. How many unique regions are there?
+2. What is the average price for each type of avocado (organic and conventional)? Be sure to include just the type and AveragePrice columns in the results.
+3. Which region has the lowest average price for organic avocados? Hint: Create wide data from the grouped data that you created in task 8.
+4. Have the Total Bags sold per year of each type of avocado become more or less consistent over time?
+
+## Lab 2-3: Analyze the exam data
+
+**The data file**  
+`exams.csv`
+
+**Tasks**
+1. Read the data from the CSV file into a DataFrame and display the first five rows.
+2. Display the basic information for the DataFrame and its columns using the `info()` method.
+3. Display statistical information for the math score, reading score, and writing score columns using the `describe()` method.
+4. Group the data by the race/ethnicity column and display the mean scores.
+5. Display a single column as a DataFrame with bracket notation.
+6. Display a single column as a Series with bracket notation.
+7. Display a single column as a Series with dot notation.
+8. Display only rows for females with a math score greater than or equal to 90.
+
+**Questions**
+1. Does taking a test preparation course improve average scores?
+2. Which gender is better on average at math?
+3. Which gender is better on average at all three subjects? Hint: Start by adding a column to the DataFrame with the total score.
+4. Does the parents’ level of education have an effect on the average scores?
