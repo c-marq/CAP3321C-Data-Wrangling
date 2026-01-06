@@ -11,7 +11,7 @@ Chapter slides from the textbook (PDF format).
 
 | Chapter | Topic | File |
 |---------|-------|------|
-| Chapter 1 | Introduction to Python for Data Analysis | resources/slides/Chapter 1.pdf |
+| Chapter 1 | Introduction to Python for Data Analysis | (https://github.com/c-marq/CAP3321C-Data-Wrangling/blob/main/resources/slides/ch01-slides.pdf) |
 | Chapter 2 | Pandas Essentials for Data Analysis | [ch02-slides.pdf](slides/ch02-slides.pdf) |
 | Chapter 3 | Pandas Essentials for Data Visualization | Coming Soon |
 | Chapter 4 | Seaborn Essentials for Data Visualization | Coming Soon |
