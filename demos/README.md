@@ -1,6 +1,6 @@
 # 🎬 Demo Notebooks
 
-These notebooks accompany the **in-class demonstrations**. During class, follow along as Professor Sanchez walks through each example.
+These notebooks accompany the **in-class demonstrations**. During class, follow along as Professor Marquez walks through each example.
 
 ---
 
