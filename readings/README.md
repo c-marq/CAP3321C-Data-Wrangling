@@ -30,7 +30,7 @@ Complete these readings **before class** each week. Each reading is aligned to t
 
 ## Estimated Time
 
-Each reading takes approximately **15-20 minutes**. Budget this time before each class session.
+Each reading takes approximately **30-45 minutes**. Budget this time before each class session.
 
 ---
 
