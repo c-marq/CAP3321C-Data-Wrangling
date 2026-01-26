@@ -224,16 +224,17 @@ Duplicate rows can skew your analysis. Here's how to find and remove them:
 
 ```python
 # Find duplicates (shows all rows that have duplicates)
-fires[fires.duplicated(keep=False)]
+polls[polls.duplicated(keep=False)]
 
 # Count duplicates
-print(f"Duplicate rows: {fires.duplicated().sum()}")
+print(f"Duplicate rows: {polls.duplicated().sum()}")
 
 # Drop duplicates, keeping the first occurrence
-fires.drop_duplicates(keep='first', inplace=True)
+polls.drop_duplicates(keep='first', inplace=True)
 
-# Drop duplicates based on specific columns
-fires.drop_duplicates(subset=['state', 'fire_year', 'latitude', 'longitude'], 
+# Drop duplicates based on specific columns only
+# (useful when some columns like timestamps differ but core data is same)
+polls.drop_duplicates(subset=['state', 'pollster', 'startdate', 'enddate'], 
                       keep='first', inplace=True)
 ```
 
@@ -506,16 +507,17 @@ The `category` dtype saves memory and enables special operations for columns wit
 
 ```python
 # Convert to category
-fires['state'] = fires['state'].astype('category')
+polls['state'] = polls['state'].astype('category')
+polls['grade'] = polls['grade'].astype('category')
 
 # Check memory savings
-fires.info(memory_usage='deep')
+polls.info(memory_usage='deep')
 
 # Category operations
-fires['state'].cat.categories  # List all categories
-fires['state'].cat.codes       # Get numeric codes
-fires['state'].cat.add_categories(['PR'])  # Add new categories
-fires['state'].cat.remove_unused_categories()  # Clean up
+polls['state'].cat.categories  # List all categories
+polls['state'].cat.codes       # Get numeric codes
+polls['grade'].cat.add_categories(['A++'])  # Add new categories
+polls['grade'].cat.remove_unused_categories()  # Clean up
 ```
 
 **When to use category:**
