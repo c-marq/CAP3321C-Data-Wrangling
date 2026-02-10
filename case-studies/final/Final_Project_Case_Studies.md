@@ -71,7 +71,7 @@ This document describes three case study options for your final project. You and
 
 ### Data File
 
-`tsa_claims1.csv`
+[tsa_claims1.csv](https://drive.google.com/file/d/1dhzcM38W6QHUoetkFgT-epZR6tVdwY_U/view?usp=sharing)
 
 ### Scenario
 
@@ -104,9 +104,9 @@ You are analysts employed by the U.S. Transportation Security Administration (TS
 
 ### Data Files
 
-- `tsa_claims2.csv`
-- `GlobalAirportDatabase.txt`
-- `maps/states.*` (the shape files for the U.S. map)
+- [tsa_claims2.csv](https://drive.google.com/file/d/1hIOkuqUjSEhv1nWq753lJlc1E3FMIyun/view?usp=sharing)
+- [GlobalAirportDatabase.txt](https://drive.google.com/file/d/1mLNP6DuwpNRLPVtigcvCdzxTXnB_U4Nh/view?usp=sharing)
+- [maps/states](https://drive.google.com/drive/folders/14HbcVp1DMF9Iq3RmFpogohE0ZyFEBJmX?usp=sharing) (the shape files for the U.S. map)
 
 ### Scenario
 
@@ -139,7 +139,7 @@ Your boss liked your previous report so much that he wants you to expand on it b
 
 ### Data File
 
-`laptops.csv`
+[laptops.csv](https://drive.google.com/file/d/1TorYOf9hRtIMp_L8jVniiaSFtBtlc5Ou/view?usp=sharing)
 
 ### Scenario
 
@@ -169,7 +169,7 @@ You are analysts employed by a computer hardware company. Your company will be e
 
 ### Data File
 
-`laptops.csv`
+[laptops.csv](https://drive.google.com/file/d/1TorYOf9hRtIMp_L8jVniiaSFtBtlc5Ou/view?usp=sharing)
 
 ### Scenario
 
@@ -197,7 +197,7 @@ Add heading and code cells to the Notebook that you created for Section 1 so tha
 
 ### Data File
 
-`insurance.csv`
+[insurance.csv](https://drive.google.com/file/d/1AnNsDBCn0T_HFINVxp2a7RdxvOP5x6Vt/view?usp=sharing)
 
 ### Scenario
 
@@ -229,7 +229,7 @@ You are analysts employed by a health care company. Your boss has asked you to p
 
 ### Data File
 
-`insurance.csv`
+[insurance.csv](https://drive.google.com/file/d/1AnNsDBCn0T_HFINVxp2a7RdxvOP5x6Vt/view?usp=sharing)
 
 ### Scenario
 
