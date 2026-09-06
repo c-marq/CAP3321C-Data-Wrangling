@@ -59,6 +59,9 @@
 3. Create the specified plot (refer to book image).
 4. Group by gender, mean scores, then bar plot.
 
+   <img width="705" height="375" alt="image" src="https://github.com/user-attachments/assets/ffe615e9-fe17-435c-a860-88b89f6604d6" />
+
+
 **Questions**
 1. Relationship between reading and writing scores?
 2. Does lunch type affect average test scores?
