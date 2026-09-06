@@ -4,7 +4,7 @@
 - Each lab uses a data file (usually CSV). Your instructor will provide these files.
 
 ### Notebooks created by you
-- Create one combined Google Colab lab notebook.
+- Create one combined Google Colab Lab 3 notebook.
 - Name notebooks using your instructor's convention or `first_last_lab_X-X`.
 - Import required modules at the start.
 - Use separate code cells for each task/question.
