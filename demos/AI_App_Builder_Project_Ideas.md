@@ -1,6 +1,5 @@
 # PROJECT IDEAS FOR STUDENTS
 **AI-Powered Application Builder Project**
-**Professor's Reference - Do Not Distribute**
 
 ---
 
